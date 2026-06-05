@@ -1,0 +1,6 @@
+{
+  "name": "Solapur Dental Care",
+  "description": "The premier dental clinic in Solapur, offering gentle, high-quality oral healthcare with soft pastel theme, virtual appointment booking, and easy WhatsApp contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
